@@ -1,15 +1,19 @@
 
-.stepDescription {
-	font-family: Arial;
-	font-size: 22px;
+.navbar-header {
+    float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
 }
-
-.navbar-brand {
-	text-align: center;
-}
+.navbar-brand {float:none;}
 
 .container {
 	text-align: center;
+}
+
+.stepDescription {
+	font-family: Arial;
+	font-size: 22px;
 }
 
 input {
