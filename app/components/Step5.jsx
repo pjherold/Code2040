@@ -28,7 +28,7 @@ class Step5 extends React.Component {
                 </div>
                 <br/>
                 <br/>
-                <Button bsStyle="warning" 
+                <Button bsStyle="danger" 
                         onClick={this.getData}>Get Date and Interval
                 </Button>
                 <br/>
@@ -42,7 +42,7 @@ class Step5 extends React.Component {
                 <br/>
                 <br/>
                 <br/>
-                <Button bsStyle="warning" 
+                <Button bsStyle="danger" 
                         onClick={this.postDate}>POST New Date
                 </Button>
                 <br/>

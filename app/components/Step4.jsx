@@ -27,7 +27,7 @@ class Step4 extends React.Component {
                 </div>
                 <br/>
                 <br/>
-                <Button bsStyle="danger" 
+                <Button bsStyle="warning" 
                         onClick={this.getStrings}>Get Prefix and Array
                 </Button>
                 <br/>
@@ -41,7 +41,7 @@ class Step4 extends React.Component {
                 <br/>
                 <br/>
                 <br/>
-                <Button bsStyle="danger" 
+                <Button bsStyle="warning" 
                         onClick={this.postStrings}>POST New Array
                 </Button>
                 <br/>
